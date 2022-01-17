@@ -10,6 +10,5 @@
   background-image: url('https://www.wallpaperflare.com/static/300/172/63/jjying-low-poly-green-blue-wallpaper.jpg');
 }
   </style>
- </head>
  </body>
 </html>
