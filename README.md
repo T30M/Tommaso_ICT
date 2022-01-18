@@ -12,6 +12,7 @@
      body {
   background-image: url('https://www.wallpaperflare.com/static/300/172/63/jjying-low-poly-green-blue-wallpaper.jpg');
 }
+   <link rel="icon" type="image/x-icon" href="https://cdn.icon-icons.com/icons2/1194/PNG/512/1490886333-37-basketball_82467.png">
   </style>
  </body>
 </html>
