@@ -1,6 +1,6 @@
 <html>
  <body>
-
+<img src="https://marcas-logos.net/wp-content/uploads/2020/03/GOLDEN-STATE-WARRIORS-LOGO.png" style="float:right;width:64px;height:36px;" >
     <h1>Warrior's 2021-22 Season</h1>
 
     <h3>The 2021–22 Golden State Warriors season is the 75th season of the franchise in the National Basketball Association (NBA), their 60th in the San Francisco Bay Area, and their third season at the Chase Center.</h3>
